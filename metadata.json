@@ -1,0 +1,6 @@
+{
+  "name": "Secret Key Scanner",
+  "description": "Static security analysis tool that scans local project directories for hardcoded credentials, API keys, private keys, and sensitive tokens.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
